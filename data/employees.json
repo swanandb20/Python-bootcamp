@@ -1,0 +1,86 @@
+[
+  {
+    "id": 16,
+    "name": "Virat Kohli",
+    "email": "chiku@bcci.in",
+    "department": "Batting",
+    "salary": 9230.0
+  },
+  {
+    "id": 17,
+    "name": "Jasprit Bumraah",
+    "email": "boomboom@bcci.in",
+    "department": "Bowling",
+    "salary": 10000.0
+  },
+  {
+    "id": 18,
+    "name": "Rohit Sharma",
+    "email": "shana@bcci.in",
+    "department": "Batting",
+    "salary": 12000.0
+  },
+  {
+    "id": 19,
+    "name": "Hardik Pandya",
+    "email": "kunfu.pandya@bcci.in",
+    "department": "All-rounder",
+    "salary": 9000.0
+  },
+  {
+    "id": 20,
+    "name": "Shubhman Gill",
+    "email": "prince@bcci.in",
+    "department": "Captain",
+    "salary": 11000.0
+  },
+  {
+    "id": 21,
+    "name": "Kannur Lokesh Rahul",
+    "email": "klrahul@bcci.in",
+    "department": "Wicketkeeper",
+    "salary": 8000.0
+  },
+  {
+    "id": 22,
+    "name": "Bhuvaneshwar Kumar",
+    "email": "bhuvi@bcci.in",
+    "department": "Bowling",
+    "salary": 8000.0
+  },
+  {
+    "id": 23,
+    "name": "Gautam Gambhir",
+    "email": "gauti@bcci.in",
+    "department": "Coach",
+    "salary": 9000.0
+  },
+  {
+    "id": 24,
+    "name": "Ravindra Jadeja",
+    "email": "jaddu@bcci.in",
+    "department": "All-rounder",
+    "salary": 7500.0
+  },
+  {
+    "id": 25,
+    "name": "Shreyash Iyer",
+    "email": "anna@bcci.in",
+    "department": "Batting",
+    "salary": 7000.0
+  },
+  {
+    "id": 26,
+    "name": "Shikhar Dhawan",
+    "email": "gabbar@bcci.in",
+    "department": "Batting",
+    "salary": 6000.0
+  },
+  {
+    "id": 27,
+    "name": "Kuldeep Yadav",
+    "email": "guddu@bcci.in",
+    "department": "Bowling",
+    "salary": 8000.0
+  }
+]
